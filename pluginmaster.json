@@ -1,0 +1,19 @@
+[
+  {
+    Author: 'a1icja',
+    Name: 'GearLogger',
+    Description: 'Logs the gear stats of any inspected player to a file for easy review later. Files are saved in \"%UserProfile%\\Documents\\GearLogs\" with the timestamp of creation in the filename.',
+    InternalName: 'GearLogger',
+    AssemblyVersion: '0.0.0.1',
+    TestingAssemblyVersion: null,
+    RepoUrl: 'https://github.com/a1icja/GearLogger',
+    ApplicableVersion: 'any',
+    DalamudApiLevel: 14,
+    Punchline: 'Logs gear stats from the Examine window',
+    IsHide: false,
+    IsTestingExclusive: false,
+    DownloadLinkInstall: 'https://github.com/a1icja/GearLogger/releases/latest/download/latest.zip',
+    DownloadLinkUpdate: 'https://github.com/a1icja/GearLogger/releases/latest/download/latest.zip',
+    LastUpdate: '1767589746',
+  }
+]
